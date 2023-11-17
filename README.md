@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Cloud computing<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Next JS, Laravel, Mongo DB<br>💬 Ask me about<br>⚡ Fun fact <strong>E-Football</strong>
 
 
 ## 🌐 Socials:
