@@ -52,7 +52,7 @@
 
 <h2 align="center">😂 Random Dev Meme 😂</h2>
 <br>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <br/><br/>
 <hr/>
