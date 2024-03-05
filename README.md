@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Backend Development**
  
- 🌱 I’m currently learning **Next JS, Laravel, Mongo DB, Arduino**
+ 🌱 I’m currently learning **Next JS, Laravel, Mongo DB**
 
  💬 Ask me about **Node.js, Firebase, MongoDB... or anything [here](https://github.com/baloerrr/baloerrr/issues)**
 
