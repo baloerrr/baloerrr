@@ -1,3 +1,1 @@
 anjay
-mabar
-yoi
